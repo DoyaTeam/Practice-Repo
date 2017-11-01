@@ -12,3 +12,5 @@ function checkPalindrome(inputString) {
 
 
 checkPalindrome("abac");
+
+//Add New js code below this line
